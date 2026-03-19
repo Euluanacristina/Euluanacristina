@@ -2,7 +2,7 @@
 
 **`Desenvolvedora`**
 
-Oiii! Eu sou a Luana Cristina Graciano tenho 20 anos e moro em São Paulo - SP. Concluí o ensino médio em 2024, e possuo formação em Tecnologia da Informação e Informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Anhanguera (presencial). Sou apaixonada por tecnologia, e estou sempre em busca de aprender novas ferramentas e linguagens que possam expandir minhas habilidades no mundo da programação.
+Oiii! Eu sou a Luana Cristina Graciano tenho 21 anos e moro em São Paulo - SP. Concluí o ensino médio em 2024, e possuo formação em Tecnologia da Informação e Informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Anhanguera (presencial). Sou apaixonada por tecnologia, e estou sempre em busca de aprender novas ferramentas e linguagens que possam expandir minhas habilidades no mundo da programação.
 
 <div> 
   <a href="https://www.instagram.com/eu_luanagraciano/?utm_source=ig_web_button_share_sheet" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
