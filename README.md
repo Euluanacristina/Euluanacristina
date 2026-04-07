@@ -68,14 +68,6 @@ Oiii! Eu sou a Luana Cristina Graciano tenho 21 anos e moro em São Paulo - SP. 
 -   📊 Dashboards
 
 ---
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Euluanacristina&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Euluanacristina&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## 🚀 Philosophy
 
