@@ -52,6 +52,14 @@ Oiii! Eu sou a Luana Cristina Graciano tenho 21 anos e moro em São Paulo - SP. 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
 />
+<img
+    align="left" 
+    alt="JAVASCRIPT" 
+    title="JAVASCRIPT"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" 
+/>
           
 
 <br/>
